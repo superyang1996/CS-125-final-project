@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songs_array">
+        <item>Mary had a little lamb</item>
+        <item>Twinkle twinkle little star</item>
+        <item>Jingle bells</item>
+        <item>Frère Jacques</item>
+        <item>From the new world</item>
+    </string-array>
+</resources>
